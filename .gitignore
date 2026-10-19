@@ -1,0 +1,16 @@
+# Dados (pesados e públicos no Kaggle)
+dados/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db

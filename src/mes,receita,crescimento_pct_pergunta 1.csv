@@ -1,0 +1,28 @@
+mes,receita,crescimento_pct
+2016-10,46566.71,NULL
+2016-12,19.62,-100.0
+2017-01,127545.67,649979.9
+2017-02,271298.65,112.7
+2017-03,414369.39,52.7
+2017-04,390952.18,-5.7
+
+categoria,receita,pct_do_total
+beleza_saude,1233131.72,9.3
+relogios_presentes,1166176.98,8.8
+cama_mesa_banho,1023434.76,7.7
+esporte_lazer,954852.55,7.2
+informatica_acessorios,888724.61,6.7
+moveis_decoracao,711927.69,5.4
+
+situacao_entrega,avaliacoes,nota_media
+1. No prazo,89944,4.29
+2. Atraso de 1 a 3 dias,1856,3.29
+3. Atraso de 4 a 7 dias,1756,2.1
+4. Atraso de mais de 7 dias,2797,1.7
+
+categoria,posicao,seller_id,receita,pedidos
+relogios_presentes,1,4869f7a5dfa277a7dca6462dcf3b52b2,198822.03,974
+moveis_escritorio,1,7c67e1448b00f6e969d365cea6b010ab,171605.82,882
+pcs,1,53243585a1d6dc2643021fd1853d8905,163322.76,143
+cama_mesa_banho,1,4a3ca9315b744ce9f8e9374361493884,162206.95,1431
+cool_stuff,1,7a67c85e85bb2ce8582c35f2203ad736,133408.69,1051
